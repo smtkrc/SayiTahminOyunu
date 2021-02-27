@@ -1,0 +1,20 @@
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\bin\Debug\Chat24012020.exe.config
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\bin\Debug\Chat24012020.exe
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\bin\Debug\Chat24012020.pdb
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\SayiTahminApp.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\Chat24012020.Form1.resources
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\Chat24012020.Properties.Resources.resources
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\SayiTahminApp.csproj.GenerateResource.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\SayiTahminApp.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\Chat24012020.exe
+C:\Users\SametKürücü\source\repos\Chat24012020\Chat24012020\obj\Debug\Chat24012020.pdb
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\bin\Debug\Chat24012020.exe.config
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\bin\Debug\Chat24012020.exe
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\bin\Debug\Chat24012020.pdb
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\SayiTahminApp.csprojAssemblyReference.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\Chat24012020.Form1.resources
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\Chat24012020.Properties.Resources.resources
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\SayiTahminApp.csproj.GenerateResource.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\SayiTahminApp.csproj.CoreCompileInputs.cache
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\Chat24012020.exe
+C:\Users\SametKürücü\source\repos\Chat24012020\Sayi Tahmin Oyunu\obj\Debug\Chat24012020.pdb
